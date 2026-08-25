@@ -8,7 +8,7 @@ Ejecuta el archivo:
 
 `Windows-System-Info.bat`
 
-La herramienta analizará el equipo y generará automáticamente un reporte `.txt` en el Escritorio.
+La herramienta analizará el equipo y generará automáticamente un análisis `.txt` en el Escritorio.
 
 ## Versión
 
