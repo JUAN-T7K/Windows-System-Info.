@@ -1,25 +1,25 @@
 # JUAN - T7K | Windows System Info
 
-Herramienta de consola para Windows diseñada para analizar el sistema, hardware y componentes principales del equipo.
+Windows console tool designed to analyze the system, hardware, and main components of the computer.
 
-## Uso
+## Usage
 
-Ejecuta el archivo:
+Run the file:
 
 `Windows-System-Info.bat`
 
-La herramienta analizará el equipo y generará automáticamente un análisis `.txt` en el Escritorio.
+The tool will analyze the computer and automatically generate a `.txt` analysis on the Desktop.
 
-## Versión
+## Version
 
 **v1.1**
 
-## Autor
+## Author
 
 **JUAN - T7K**
 
-## ⚠️ Descargo de Responsabilidad
+## ⚠️ Disclaimer
 
-- Este proyecto ha sido desarrollado con fines educativos y de aprendizaje.
-- Está diseñado para ejecutarse en equipos propios o en equipos donde se cuente con la autorización correspondiente.
-- El autor no se hace responsable del uso indebido de la herramienta.
+- This project was developed for educational and learning purposes.
+- It is designed to be used on your own equipment or on equipment where proper authorization has been obtained.
+- The author is not responsible for any misuse of the tool.
